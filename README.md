@@ -1,4 +1,15 @@
-### Hi there 👋
+### 👨 Me
+
+🏡  Ireland
+
+💼 Intel
+
+💻  Software Engineer
+
+☁️  Kubernetes
+
+✉️  cmsnolan@gmail.com
+
 
 <!--
 **nolancon/nolancon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +25,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nolancon&hide=verilog,java,html,css&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nolancon&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
