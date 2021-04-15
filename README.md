@@ -1,4 +1,4 @@
-### 👨 Me
+### Conor Nolan (nolancon) 👋
 
 🏡  Ireland
 
