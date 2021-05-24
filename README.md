@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nolancon&langs_count=8&hide=verilog,java,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nolancon&langs_count=8&hide=verilog,java,html,css&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nolancon&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nolancon&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
