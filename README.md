@@ -2,13 +2,13 @@
 
 🏡  Ireland
 
-💼 Intel
+💼 StorageOS
 
 💻  Software Engineer
 
 ☁️  Kubernetes
 
-✉️  cmsnolan@gmail.com
+✉️  conor.nolan@storageos.com
 
 
 <!--
