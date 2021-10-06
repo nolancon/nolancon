@@ -8,7 +8,7 @@
 
 ☁️  Kubernetes
 
-✉️  conor.nolan@storageos.com
+✉️  conor.nolan@ondat.io
 
 
 <!--
