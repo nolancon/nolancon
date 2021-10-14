@@ -2,7 +2,7 @@
 
 🏡  Ireland
 
-💼 StorageOS
+💼 [Ondat](https://www.ondat.io/)
 
 💻  Software Engineer
 
