@@ -2,13 +2,13 @@
 
 🏡  Ireland
 
-💼 [Ondat](https://www.ondat.io/)
+💼 [Akamai](https://www.akamai.com/)
 
 💻  Software Engineer
 
 ☁️  Kubernetes
 
-✉️  conor.nolan@ondat.io
+✉️  cmsnolan@gmail.com
 
 
 <!--
