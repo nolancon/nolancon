@@ -31,3 +31,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nolancon&langs_count=8&hide=verilog,html,css&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nolancon&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+![alt text](https://github.com/nolancon/nolancon/blob/main/images/github-wrapped.png?raw=true)
